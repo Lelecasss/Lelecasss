@@ -17,7 +17,7 @@ I love building cool stuff and learning new languages!
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=dracula)](https://github.com/Lelecasss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelecasss&layout=compact&langs_count=8&theme=dracula)](https://github.com/Lelecasss)
 
 ---
 
