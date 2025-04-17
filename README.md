@@ -1,8 +1,3 @@
-<!-- Top banner image -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub+profile!" alt="GitHub Banner" />
-</p>
-
 ## Hello there!
 
 Hey there! I'm Leonardo Mello, a passionate developer always curious about new technologies and creative problem-solving.  
